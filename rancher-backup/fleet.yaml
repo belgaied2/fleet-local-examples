@@ -1,0 +1,6 @@
+defaultNamespace: cattle-resources-system
+helm:
+  repo: https://charts.rancher.io
+  chart: rancher-backup
+  version: 3.0.0
+  releaseName: rancher-backup
