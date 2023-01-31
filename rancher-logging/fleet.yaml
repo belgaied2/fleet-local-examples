@@ -4,5 +4,3 @@ helm:
   chart: rancher-logging-crd
   version: 101.0.0+up3.17.7
   releaseName: rancher-logging-crd
-dependsOn:
-  - name: rancher-logging-crd
